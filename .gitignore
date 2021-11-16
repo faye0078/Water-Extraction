@@ -1,5 +1,5 @@
 dataset/dset-s2
 *.pth
-.idea/
+/.idea
 other/__pycache__
 DL_based_seg/__pycache__
