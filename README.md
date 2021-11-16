@@ -12,7 +12,7 @@
 
 ## -- DataSet and pretrained Model
 - We use the Sentinel-2 image dataset from [**[WatNet]**](https://github.com/xinluo2018/WatNet). Download from [**[Link]**](https://doi.org/10.5281/zenodo.5205674).
-- Downloading the pretrained model from  [**[Google Drive]**](https://drive.google.com/file/d/1jR0nSqghfQ8Wn4-GhSMpVPLb-GUGNRdc/view?usp=sharing). [**[BaiduNetDisk]**](链接：https://pan.baidu.com/s/1p3-OjaVGnYUu5ElPAhlGNg).(code：1111)
+- Downloading the pretrained model from  [**[Google Drive]**](https://drive.google.com/file/d/1jR0nSqghfQ8Wn4-GhSMpVPLb-GUGNRdc/view?usp=sharing). [**[BaiduNetDisk]**](链接：https://pan.baidu.com/s/1p3-OjaVGnYUu5ElPAhlGNg) code：1111
 - The pretrained model performance:
 
 
