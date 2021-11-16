@@ -1,4 +1,4 @@
-dataset/
+dataset/dset-s2
 *.pth
 .idea/
 other/__pycache__
