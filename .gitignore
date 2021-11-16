@@ -1,0 +1,5 @@
+/dataset
+saved_model/
+.idea/
+other/__pycache__
+DL_based_seg/__pycache__
