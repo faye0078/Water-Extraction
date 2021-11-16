@@ -1,5 +1,5 @@
 /dataset
-saved_model/*.pth
+*.pth
 .idea/
 other/__pycache__
 DL_based_seg/__pycache__
