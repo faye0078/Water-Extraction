@@ -44,7 +44,7 @@ def main(input_path, output_path, model_path):
         )
     )
     net.load_state_dict(
-        torch.load(model_paths), strict=False
+        torch.load(model_path), strict=False
     )
 
     result_patch_list = []
