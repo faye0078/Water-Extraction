@@ -25,7 +25,7 @@
 ### -- Step 1
 - clone the rep
 ~~~console
-git clone https://github.com/faye0078/LULC_code
+git clone https://github.com/faye0078/LULC
 ~~~
 - Install dependence
 ```
