@@ -64,7 +64,7 @@ python test.py
 ## **-- Train the model**
 
 - download the  Sentinel-2 image dataset, and move it in dir dataset.
-- change the config,py based on your computer.
+- change the config.py based on your computer.
 - run the train.py
 ~~~console
 python train.py
