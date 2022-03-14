@@ -1,7 +1,7 @@
 
 # Water-HRNet: 
 
-- A deep Net for surface water mapping .
+- A deep Network for surface water mapping .
 - Just a binary classification problem. Water or Not Water.
 - Since the training dataset used is too small, the effect of the model is not guaranteed, it is only used to complete my coursework.
 
@@ -12,8 +12,8 @@
 
 ## -- Dataset and Pretrained Model
 - We use the Sentinel-2 image dataset from [**[WatNet]**](https://github.com/xinluo2018/WatNet). Download from [**[Link]**](https://doi.org/10.5281/zenodo.5205674).
-- Downloading the pretrained model from  [**[Google Drive]**](https://drive.google.com/file/d/1jR0nSqghfQ8Wn4-GhSMpVPLb-GUGNRdc/view?usp=sharing) [**[BaiduNetDisk]**](https://pan.baidu.com/s/1p3-OjaVGnYUu5ElPAhlGNg) code：1111
-- The pretrained model performance:
+- Downloading the trained model from  [**[Google Drive]**](https://drive.google.com/file/d/1jR0nSqghfQ8Wn4-GhSMpVPLb-GUGNRdc/view?usp=sharing) [**[BaiduNetDisk]**](https://pan.baidu.com/s/1p3-OjaVGnYUu5ElPAhlGNg) code：1111
+- The trained model performance:
 
 
 | Acc           |                    mIoU |          fwIoU |
