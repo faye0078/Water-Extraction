@@ -6,8 +6,7 @@
 - Since the training dataset used is too small, the effect of the model is not guaranteed, it is only used to complete my coursework.
 
 ## -- Model
-- We use HRNet as the main model structure. And only a little change added. 
-- Only added an upsampling operation before the last layer, in order to refine the results
+- We use HRNet as the main model structure（HRNet-W48）.
   ![watnet](image/HRnet.png)
 
 ## -- Dataset and Trained Model
